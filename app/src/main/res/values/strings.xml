@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Midterm Exam</string>
     <string name="action_clear">Clear</string>
+
+    <string name="imgdesc_music_icon">music-icon</string>
     <string name="search_an_album">Search an Album</string>
     <string name="text_search">Search</string>
 </resources>
